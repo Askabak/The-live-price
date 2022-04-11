@@ -1,3 +1,8 @@
+во первых у меня не хватило  место для папки node_modules, так что переместите его из других своих  реакт проектов. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
