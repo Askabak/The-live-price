@@ -1,0 +1,29 @@
+.Nav {
+    text-align: center;
+    color: black;
+    background-color: darkorange;
+}
+ul { 
+    width : 5 7 0рх ; 
+    padding : l5px ; 
+    margin : Орх auto Орх auto ; 
+    border-top : 2рх solid #000 ; 
+    border-bottom:lpx solid #000; 
+    text-align: center;
+    display: inline;
+}
+li{
+    display: inline;
+    margin: 0px 45px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    font-size: 25px;
+    color: deeppink;
+    text-decoration: underline;
+}
